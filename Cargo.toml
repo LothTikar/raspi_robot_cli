@@ -1,0 +1,6 @@
+[package]
+name = "raspi_robot_cli"
+version = "0.1.0"
+authors = ["lothtikar"]
+
+[dependencies]
