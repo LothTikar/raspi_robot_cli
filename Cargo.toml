@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["lothtikar"]
 
 [dependencies]
-wiringpi = "0.2.4"
+libc = "0.2.40"
