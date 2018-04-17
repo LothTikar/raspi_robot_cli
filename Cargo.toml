@@ -5,3 +5,4 @@ authors = ["lothtikar"]
 
 [dependencies]
 libc = "0.2.40"
+clap = "2.31.2"
